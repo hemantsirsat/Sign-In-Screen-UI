@@ -15,9 +15,9 @@ const LoginScreen=()=> {
             style={styles.logoStyle}
           />
           <View style={styles.firmNameStyle}>
-            <Text style={styles.titleStyle}>Title</Text>
-            <Text style={styles.subTitleStyle}>SubTitle</Text>
-            <Text>Since 1950</Text>
+            <Text style={styles.titleStyle}>TITLE</Text>
+            <Text style={styles.subTitleStyle}>SUB TITLE</Text>
+            <Text style={{color:'#7d8597'}}>Since 1950</Text>
           </View>
         </View>
         <View style={styles.emailPasswordStyle}>

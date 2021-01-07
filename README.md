@@ -17,4 +17,4 @@ Ready to use.
 ```
 ## ScreenShots
 ### Splash Screen
-<img src="assets/Signin.png" width="200" /><br>
+<img src="assets/SignIn.png" width="200" /><br>

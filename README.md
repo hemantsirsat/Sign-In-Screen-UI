@@ -11,7 +11,7 @@
 
 ## Use In Your Project
 ```
-git remote add origin https://github.com/hemantsirsat/Sign-In-Screen-UI.git
+git clone https://github.com/hemantsirsat/Sign-In-Screen-UI.git
 Place LoginScreen.js at appropriate directory inside your project.
 Ready to use.
 ```
